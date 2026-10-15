@@ -17,5 +17,7 @@ jobs:
 
       - uses: jdx/mise-action@v5
       # BEGIN
-      # Set the project up, run the linter and run the tests.
+      - run: make setup
+      - run: make lint
+      - run: make test
       # END

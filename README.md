@@ -2,6 +2,8 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
+[![Node CI](https://github.com/serdarsabreder/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/serdarsabreder/hexlet-ci-app/actions/workflows/main.yml)
+
 ## Зачем это нужно
 
 Подопытное приложение для курса по непрерывной интеграции. Само по себе оно неинтересно: это заготовка [Strapi](https://strapi.io/), и её задача просто собираться и проходить тесты.
